@@ -1,0 +1,12 @@
+
+{
+  "name": "shopify-theme-detector",
+  "version": "1.0.0",
+  "main": "api/detect.js",
+  "scripts": {
+    "start": "node api/detect.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  }
+}
